@@ -1,0 +1,23 @@
+.square {
+  height: 30px;
+  width: 30px;
+  border: solid 1px black;
+  margin: 2px;
+}
+
+.board-row {
+ display: flex;
+ flex-direction: row;
+}
+
+.boArd {
+margin: auto;
+}
+
+.game {
+  margin: auto;
+  margin-top: 25%;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
